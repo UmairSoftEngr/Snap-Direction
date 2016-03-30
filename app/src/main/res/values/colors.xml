@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#CCCCFF</color>
+    <color name="green_dark">#CC99FF</color>
+    <color name="blue">#CCCCFF</color>
+    <color name="blue_dark">#CC99FF</color>
+    <color name="red">#CCCCFF</color>
+    <color name="red_dark">#CC99FF</color>
+    <color name="gray">#CCCCFF</color>
+    <color name="gray_dark">#CC99FF</color>
+    <color name="black">#FFFFCC</color>
+    <color name="black_pressed">#CC66FF</color>
+</resources>

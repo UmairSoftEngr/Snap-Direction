@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="Battery">
+        <item name="50">50%</item>
+        <item name="40">40%</item>
+        <item name="30">30%</item>
+        <item name="20">20%</item>
+        <item name="b20">Below 20%</item>
+    </string-array>
+
+    <string-array name="Signal">
+        <item name="gd">Good</item>
+        <item name="po">Poor</item>
+        <item name="vp">V.Poor</item>
+
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Emergency System" >
+        <Preference android:key="pick"
+            android:title="Pick Number"
+            android:defaultValue=""
+            android:summary="Enter Your ICE number"
+            android:icon="@android:drawable/sym_contact_card"/>
+
+        <EditTextPreference
+            android:title="ICE Message"
+            android:summary="Set Your ICE Message"
+
+            android:defaultValue="checked"
+            android:key="mess"
+            android:icon="@android:drawable/ic_dialog_email"/>
+        <SwitchPreference
+            android:summary="Turn on ICE system "
+            android:key="ES"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+
+
+
+
+
+</PreferenceScreen>
